@@ -1,1 +1,2 @@
-# ECS-32A
+# ECS-32A (Fall 2019)
+- Languages: Python
