@@ -1,2 +1,2 @@
-# ECS-32A (Fall 2019)
+# ECS-32A: Intro to Programming (Fall 2019)
 - Languages: Python
